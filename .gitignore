@@ -1,0 +1,12 @@
+.idea
+.vs
+bin
+debug\.log
+GPUCache
+Jars
+JavaDocs
+MigrationBackup
+obj
+packages
+Resource\.designer\.cs
+*.zip
